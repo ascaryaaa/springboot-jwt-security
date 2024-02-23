@@ -1,4 +1,4 @@
-##Getting Token
+# Login for token
 1. POST http://localhost:8080/api/auth/login
 2. Remove cookies
 3. Add User
